@@ -22,6 +22,6 @@ I'm a passionate and experienced developer specializing in Next.js, with a stron
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=okinoxis&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://get-stats.vercel.app/api?username=okinoxis&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okinoxis&layout=compact&theme=radical)
+![Top Langs](https://get-stats.vercel.app/api/top-langs/?username=okinoxis&layout=compact&theme=radical)
