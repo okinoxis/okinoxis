@@ -16,7 +16,7 @@ I'm a passionate and experienced developer specializing in Next.js, with a stron
 
 ## 🌟 Freelance Work
 
-I enjoy working as a freelancer and collaborating with clients to bring their ideas to life. You can find my freelance profiles on:
+I work as a freelancer and collaborating with clients to bring their ideas to life. You can find my freelance profiles on:
 
 - Upwork: [https://www.upwork.com/freelancers/~0185aea899e5f37224](https://www.upwork.com/freelancers/~0185aea899e5f37224)
 - Fiverr: [https://www.fiverr.com/okinoxis](https://www.fiverr.com/okinoxis)
