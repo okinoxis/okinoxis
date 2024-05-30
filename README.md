@@ -14,6 +14,15 @@ I'm a passionate and experienced developer specializing in Next.js, with a stron
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 🌟 Freelance Work
+
+I enjoy working as a freelancer and collaborating with clients to bring their ideas to life. You can find my freelance profiles on:
+
+- Upwork: [https://www.upwork.com/freelancers/~0185aea899e5f37224](https://www.upwork.com/freelancers/~0185aea899e5f37224)
+- Fiverr: [https://www.fiverr.com/okinoxis](https://www.fiverr.com/okinoxis)
+
+Feel free to reach out to me through these platforms for any freelance opportunities or project collaborations.
+
 ## 📫 Get in Touch
 
 - Website: [nicolascristobal.com](https://nicolascristobal.com)
